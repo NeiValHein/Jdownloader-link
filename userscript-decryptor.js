@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Decryptor
 // @namespace   NeiValHein Scripts
-// @include     * // if you want to execute the userscript only in one site the delete * and put the website link
+// @match       https://website.com/ // if you want to execute the userscript in other site then delete th current link and put the new website link
 // @grant       none
 // @version     1.0
 // @author      NeiValHein
