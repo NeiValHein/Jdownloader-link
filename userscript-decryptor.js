@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        compupaste.com
-// @namespace   Violentmonkey Scripts
-// @match       * //to work in only one site put the website link in match field  and delete *
+// @name        Decryptor
+// @namespace   NeiValHein Scripts
+// @include     * // if you want to execute the userscript only in one site the delete * and put the website link
 // @grant       none
 // @version     1.0
 // @author      NeiValHein
